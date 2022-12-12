@@ -1,1 +1,1 @@
-# michiemprendimiento
+Proyecto para el curso de Frontend de Buenos Aires Multiplica
